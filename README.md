@@ -1,21 +1,21 @@
 ![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif)
 <h1 align="center">Hi 👋, I'm SUBASH M</h1>
 <h3 align="center">A young engineer who's still loving the learning process and holding onto every opportunity that he can possibly grab.</h3>
-<img align="right" alt="Coding" width="400" src="https://c.tenor.com/qJ5evVs-_uUAAAAS/coding.gif)">
+<img align="right" alt="GIF" width="340" height="290" src="https://d6f6d0kpz0gyr.cloudfront.net/uploads/images-archive/Blog/Gifs/coding.gif?raw=true" />
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=subash-01&label=Profile%20views&color=0e75b6&style=flat" alt="subash-01" /> </p>
 
-- 🔭 I’m currently working on [Data Analytics in IBM](https://www.ibm.com/in-en/marketing/careereducation/bigdata-analytics/)
+- 🔭 I’m currently working on Data Analytics in [IBM](https://www.ibm.com/in-en/marketing/careereducation/bigdata-analytics/)
 
 - 🌱 I’m currently learning **Cloud Computing**
 
-- 👨‍💻 All of my projects are available at [subashmohandoss.netlify.app](subashmohandoss.netlify.app)
+- 👨‍💻 All of my projects are available at [PORTFOLIO](https://subashmohandoss.netlify.app/)
 
-- 💬 Ask me about **anything which is on my resume.**
+- 💬 Ask me about anything which is on my resume.
 
 - 📫 How to reach me **mohandosssubash@gmail.com**
 
-- 📄 Know about my experiences [https://docs.google.com/document/d/1Xxk7uMSR2oDQkuQVK1kYYxATVqoD1U5G5zisEEkO0ao/edit?usp=sharing](https://docs.google.com/document/d/1Xxk7uMSR2oDQkuQVK1kYYxATVqoD1U5G5zisEEkO0ao/edit?usp=sharing)
+- 📄 Know about my experiences [RESUME](https://docs.google.com/document/d/1Xxk7uMSR2oDQkuQVK1kYYxATVqoD1U5G5zisEEkO0ao/edit?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
